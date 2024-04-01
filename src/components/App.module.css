@@ -1,0 +1,17 @@
+.appContainer {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    align-items: flex-start;
+    margin: 0 auto;
+}
+
+.title {
+    color: #161113;
+}
+
+.subtitle {
+    color: #161113;
+    margin-top: 20px;
+}
